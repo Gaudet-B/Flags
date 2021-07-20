@@ -1,0 +1,33 @@
+.container {
+    height: 500px;
+    width: 1000px;
+    background-color: white;
+    margin: 0px;
+    padding: 0px:
+}
+
+.union {
+    height: 280px;
+    width: 400px;
+    background-color: blue;
+    vertical-align: top;
+    position: absolute;
+}
+
+
+
+.top-red-stripe {
+    height: 40px;
+    width: 600px;
+    background-color: red;
+    vertical-align: top;
+    margin-bottom: 40px;
+    margin-left: auto;
+}
+
+.bot-red-stripe {
+    height: 40px;
+    width: 1000px;
+    background-color: red;
+    margin-bottom: 40px;
+}
